@@ -9,7 +9,6 @@
 <br>
 
 <p align="center">
-        <!-- Intro -->
         <samp>
                 「 I'm a full-stack web developer from <b>Morocco</b> 」
                 <br>
@@ -18,15 +17,5 @@
                 <br>
         </samp>
 
-        <!-- Developer GIF -->
-        <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif">
-        <br><br>
-
-        <!-- Technologies Badges -->
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,tailwind,git,github,figma" />
 </p>
 
----
-
-
-</p>
