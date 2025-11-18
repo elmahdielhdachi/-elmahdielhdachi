@@ -1,3 +1,8 @@
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://i.ibb.co/84y4J5T/animated-banner.gif" width="100%" alt="banner">
+</p>
+
 <!-- Profile Views Counter -->
 ![Profile views](https://gpvc.arturio.dev/ELMAHDIELHDACHI?v=3)
 
@@ -14,73 +19,57 @@
         <samp>
                 「 I'm a full-stack web developer from <b>Morocco</b> 」
                 <br>
-                「 Passionate about building modern websites, scalable apps and clean UI/UX 」
+                「 Passionate about creating modern, scalable and beautiful digital experiences 」
                 <br>
                 <br>
         </samp>
 
-        <!-- Technologies -->
-        <!-- HTML -->
-        <img alt="HTML"
-                src="https://img.shields.io/badge/-HTML5-E44D26?style=flat-square&logo=html5&logoColor=white">
+        <!-- Developer GIF -->
+        <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif">
+        <br><br>
 
-        <!-- CSS -->
-        <img alt="CSS"
-                src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-
-        <!-- JavaScript -->
-        <img alt="JavaScript"
-                src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-
-        <!-- React -->
-        <img alt="React"
-                src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
-
-        <!-- NodeJS -->
-        <img alt="NodeJS"
-                src="https://img.shields.io/badge/-NodeJS-3C873A?style=flat-square&logo=node.js&logoColor=white">
-
-        <!-- PHP -->
-        <img alt="PHP"
-                src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-
-        <!-- MySQL -->
-        <img alt="MySQL"
-                src="https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white">
-
-        <!-- Tailwind -->
-        <img alt="TailwindCSS"
-                src="https://img.shields.io/badge/-TailwindCSS-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white">
+        <!-- Technologies Badges -->
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,tailwind,git,github,figma" />
 </p>
+
+---
 
 <!-- Details Section -->
 <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
+
         <br>
+
         <!-- Activity Widget -->
-        <img alt="EL MAHDI's GitHub Stats"
+        <img alt="EL MAHDI GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=ELMAHDIELHDACHI&show_icons=true&theme=radical" />
-        <br>
+
+        <br><br>
+
+        <!-- Contribution Snake -->
+        <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation">
+
+        <br><br>
+
         <!-- Social Links -->
         <p>Find me on</p>
 
-        <!-- Mail -->
-        <a href="mailto:your-email@example.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        <a href="mailto:your-email@example.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
 
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        <a href="https://www.linkedin.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
-        
-        <!-- Portfolio (Add your website link) -->
-        <a href="https://your-portfolio.com" target="_blank"><img alt="Website"
-                src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white">
+
+        <a href="https://your-portfolio.com" target="_blank">
+            <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
         </a>
+
     </p>
 </details>
+
 <br>
 
 <!-- Footer -->
@@ -92,14 +81,18 @@
     </p>
 </samp>
 
+---
+
 <!-- Featured Repositories -->
-#### Featured
+#### ⭐ Featured Projects
 
 <p align="center">
 <a href="https://github.com/ELMAHDIELHDACHI">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDIELHDACHI&repo=Portfolio&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
+
 <span>&nbsp;</span>
+
 <a href="https://github.com/ELMAHDIELHDACHI">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDIELHDACHI&repo=FullStack-App&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
